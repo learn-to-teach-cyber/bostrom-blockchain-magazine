@@ -1,3 +1,4 @@
 # Bostrom Journal 
 
-[Bostrom Journal, issue 1](BostromJournal001.md)
+[Issue 1](BostromJournal001.md)
+[Issue 2 (draft)](BostromJournal002.md)
