@@ -8,7 +8,7 @@ const init_numd_pwd_const = '/Users/user/git/bostrom-journal'
 "{
     h1: 'Methods of publishing information into Cybergraph'
     h2: 'with examples by @cyber-prophet'
-    version: '> $in'
+    version: '> '
     timestamp: (date now)
     version: 0
     soul: {
